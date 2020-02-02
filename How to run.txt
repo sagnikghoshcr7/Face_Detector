@@ -1,0 +1,1 @@
+Run this application using command prompt using 'python face_detector.py'

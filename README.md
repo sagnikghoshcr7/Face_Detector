@@ -8,7 +8,7 @@ This application detects faces in an image
 git clone https://github.com/sagnikghoshcr7/Face_Detector.git
 ```
 
-2. install OpenCV python package if previously not installed by the following command
+2. install OpenCV python package by the following command if previously not installed
 ```
 pip install opencv
 ```

@@ -14,5 +14,3 @@ pip install opencv
 ```
 
 3. Finally run the face_detector.py file and enjoy 😉
-
-![](https://github.com/sagnikghoshcr7/images/blob/master/Face%20Recognition.gif)
